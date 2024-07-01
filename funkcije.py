@@ -4,5 +4,5 @@ def popravi_stevilke(niz):
     elif niz == "-- N/A --":
         return 0
     else:
-        return niz
+        return niz.replace(',', '.')
     
