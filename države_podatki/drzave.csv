@@ -10,7 +10,7 @@ Armenia,1.6,29743,3031200,9668,74.8,republic with parliamentary system,102,Ortho
 Australia,16.0,7686850,25130600,49378,83.1,constitutional monarchy based on parlamentarism,3,Catholic and Protestant Christianity
 Austria,8.5,83858,8488511,53879,81.8,republic with parliamentary system,101,Catholic Christianity
 Azerbaijan,3.5,86600,9235100,17449,72.1,semi-presidential republic,107,Shi'ite Islam
-"Bahamas, The",8.5,13940,351461,30494,75.8,constitutional monarchy based on parlamentarism,25,Protestant Christianity
+The Bahamas,8.5,13940,351461,30494,75.8,constitutional monarchy based on parlamentarism,25,Protestant Christianity
 Bahrain,29.0,665,1234571,47708,77,constitutional monarchy where monarch personally exercises power,1856,Other religions
 Bangladesh,0.5,144000,165570000,3877,72.8,republic with parliamentary system,1150,Sunni Islam
 Barbados,11.6,431,274200,18559,76.1,constitutional monarchy based on parlamentarism,636,Protestant Christianity
@@ -34,8 +34,8 @@ Cape Verde,1.9,4033,491875,6912,73,republic with parliamentary system,122,Cathol
 Central African Republic,0.1,622984,4667000,727,52.9,presidential republic,7,Natural religion
 Colombia,1.5,1138910,50047300,14503,74.6,presidential republic,44,Catholic Christianity
 Comoros,0.3,2170,724300,2751,63.9,presidential republic,334,Sunni Islam
-"Congo, Democratic Republic of the",0,2345410,84004989,889,60,semi-presidential republic,36,Catholic Christianity
-"Congo, Republic of the",1.3,342000,4324000,5454,65.1,semi-presidential republic,13,Catholic Christianity
+Democratic Republic of the Congo,0,2345410,84004989,889,60,semi-presidential republic,36,Catholic Christianity
+Republic of the Congo,1.3,342000,4324000,5454,65.1,semi-presidential republic,13,Catholic Christianity
 Costa Rica,1.7,51100,4667096,17109,80,presidential republic,91,Catholic Christianity
 Croatia,4.1,56542,4290612,26295,77.8,republic with parliamentary system,76,Catholic Christianity
 Cuba,2.8,100860,11221060,0,79.9,republic with single political movement,111,Natural religion
@@ -58,7 +58,7 @@ Fiji,1.7,18270,858038,9574,70.4,republic with parliamentary system,47,Protestant
 Finland,8.6,337030,5433730,46343,81.5,republic with parliamentary system,16,Protestant Christianity
 France,5.0,675417,67348000,44032,82.7,semi-presidential republic,100,Catholic Christianity
 Gabon,4.1,267667,1594000,18113,66.5,presidential republic,6,Catholic Christianity
-"Gambia, The",0.3,11300,1874000,1699,61.4,presidential republic,166,Natural religion
+The Gambia,0.3,11300,1874000,1699,61.4,presidential republic,166,Natural religion
 Georgia,2.6,69700,4497600,10674,73.4,republic with parliamentary system,65,Orthodox Christianity
 Germany,9.6,357021,82793800,52555,81.2,republic with parliamentary system,232,Catholic and Protestant Christianity
 Ghana,0.6,239460,29614337,4501,63,presidential republic,124,Protestant Christianity
@@ -89,8 +89,8 @@ Jordan,3.9,92300,6284000,9172,74.5,constitutional monarchy where monarch persona
 Kazakhstan,14.5,2717300,18367000,26490,70,presidential republic,7,OrtodoxnĂ­ Christianity and Sunni Islam
 Kenya,0.4,582650,50950879,3292,67.3,presidential republic,87,Protestant Christianity
 Kiribati,0.3,811,104573,2185,66.5,republic with parliamentary system,129,Catholic Christianity
-"Korea, North",1.5,120540,25610672,0,0,republic with single political movement,212,Chinese religion
-"Korea, South",13.0,98480,51635256,38824,71.9,presidential republic,524,Mahayana Buddhism and Protestant Christianity
+North Korea,1.5,120540,25610672,0,0,republic with single political movement,212,Chinese religion
+South Korea,13.0,98480,51635256,38824,71.9,presidential republic,524,Mahayana Buddhism and Protestant Christianity
 Kuwait,27.1,17820,3582054,72095,74.8,constitutional monarchy where monarch personally exercises power,201,Sunni Islam
 Kyrgyzstan,2.0,198500,5551900,3735,71.1,republic with parliamentary system,28,Sunni Islam
 Laos,0.4,236800,6580800,7038,67,republic with single political movement,28,Theravada Buddhism

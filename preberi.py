@@ -14,7 +14,7 @@ def page_to_drzava(page_content):
 def get_dict_from_drzava_block(block):
     vzorec_podatki = r"<td>.*?</td><td><a .*?>(.*?)</a></td><td>(.*?)</td><td>(.*?)</td><td>(.*?)</td><td>(.*?)</td><td>(.*?)</td><td>(.*?)</td><td>(.*?)</td><td>(.*?)</td>"
     podatki = re.search(vzorec_podatki, block)
-    ime = podatki.group(1)
+    ime = funkcije.popravi_ime(podatki.group(1))
     co2 = funkcije.popravi_stevilke(podatki.group(2))
     obmocje = funkcije.popravi_stevilke(podatki.group(3))
     populacija = funkcije.popravi_stevilke(podatki.group(4))
