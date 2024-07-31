@@ -1,7 +1,7 @@
 import os
 import requests
 
-spletna_stran = 'https://www.geograf.in/en/table.php?col1=state&col2=co4&col3=area&col4=population&col5=gdp&col6=life&col7=government&col8=density&col9=religion&filter=0&order_by=state&ascdesc=ASC'
+spletna_stran = 'https://www.geograf.in/en/table.php?col1=state&col2=continent&col3=area&col4=population&col5=gdp&col6=life&col7=government&col8=density&col9=religion&filter=0&order_by=state&ascdesc=ASC'
 
 mapa = 'države_podatki'
 
