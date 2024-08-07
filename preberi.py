@@ -23,7 +23,7 @@ def get_dict_from_drzava_block(block):
     vlada = podatki.group(7)
     gostota = funkcije.popravi_stevilke(podatki.group(8))
     vera = podatki.group(9)
-    return {"ime": ime, "kontinent": kontinent, "območje": obmocje, "populacija": populacija, "gdp": gdp, "življenska doba": ziv_doba, "vlada": vlada, "gostota": gostota, "vera": vera}
+    return {"ime": ime, "kontinent": kontinent, "območje (km2)": obmocje, "populacija": populacija, "gdp (USD per capita)": gdp, "življenska doba (leta)": ziv_doba, "vlada": vlada, "gostota (ljudi na km2)": gostota, "vera": vera}
     
 def drzave_from_file(filename, directory):
     page_content = read_file_to_string(directory, filename)

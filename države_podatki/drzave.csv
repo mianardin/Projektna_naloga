@@ -1,4 +1,4 @@
-ime,kontinent,območje,populacija,gdp,življenska doba,vlada,gostota,vera
+ime,kontinent,območje (km2),populacija,gdp (USD per capita),življenska doba (leta),vlada,gostota (ljudi na km2),vera
 Afghanistan,Asia,647500,31575018,1976,64,presidential republic,49,Sunni Islam
 Albania,Europe,28748,2821977,12943,78.5,republic with parliamentary system,98,Sunni Islam
 Algeria,Africa,2381740,42545964,15292,76.3,semi-presidential republic,18,Sunni Islam
