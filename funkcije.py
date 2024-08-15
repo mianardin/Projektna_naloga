@@ -6,7 +6,6 @@ def popravi_stevilke(niz):
     else:
         return niz.replace(',', '.')
     
-    
 def popravi_ime(niz):
     if "," in niz:
         deli = niz.split(", ")

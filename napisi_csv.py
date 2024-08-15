@@ -1,7 +1,6 @@
 import csv
 import os
 
-
 def write_csv(fieldnames, rows, directory, filename):
     os.makedirs(directory, exist_ok=True)
     path = os.path.join(directory, filename)
@@ -11,7 +10,6 @@ def write_csv(fieldnames, rows, directory, filename):
         for row in rows:
             writer.writerow(row)
     return
-
 
 def write_drzave_to_csv(drzave, directory, filename):
     assert drzave and (all(j.keys() == drzave[0].keys() for j in drzave))
