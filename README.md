@@ -13,5 +13,5 @@ Za vsako državo sem zajela podatke:
 
 Podatke sem pridobila na spletni strani https://www.geograf.in/en/table.php?col1=state&col2=continent&col3=area&col4=population&col5=gdp&col6=life&col7=government&col8=density&col9=religion&filter=0&order_by=state&ascdesc=ASC
 
-##Navodila za uporabo
+#Navodila za uporabo
 Najprej je poterbno pognati datoteko main.py, ki bo iz podane spletne strani uvozila podatke in jih zapisala v datoteko drzave.csv. Nato je potrebno le še pognati zvezek Analiza.ipynb, v kateri sem podrobneje analizirala podatke
